@@ -1,2 +1,2 @@
-from utils import save_password, retrieve_password
 
+print("Welcome to LockyBear! I am going to help you manage passwords! 🐻")
